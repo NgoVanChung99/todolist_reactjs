@@ -1,0 +1,39 @@
+.name {
+    width: 500px;
+    height: 30px;
+}
+.btnAdd
+{
+    width: 80px;
+    height: 35px;
+    margin-left: 10px;
+    background: #d9d9d9;
+}
+.todo-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    margin: auto;
+}
+.check
+{
+    float: left;
+    width: 10%;
+}
+.action {
+    float: left;
+    width: 80%;
+    text-align: center;
+}
+.btnDelete
+{
+    float: left;
+    width: 8%;
+}
+.completed
+{
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
